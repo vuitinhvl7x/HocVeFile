@@ -23,4 +23,4 @@ Dùng để nhập dữ liệu vào
 ![Screeshot](https://scontent-hel3-1.xx.fbcdn.net/v/t1.15752-9/272048825_512303746833223_747657154387587778_n.png?_nc_cat=111&ccb=1-5&_nc_sid=ae9488&_nc_ohc=85JZzlNIp-IAX8u31eI&tn=Nh1sVwXKQts0v8tL&_nc_ht=scontent-hel3-1.xx&oh=03_AVKt_gj51_JQSJDHrl0WMDl3TjcZDu1TpIH3hDVYDP0J8Q&oe=6217FDC0)
 ##Lưu đối tượng vào file - ObjectStreamClass (Serialization - tuần tự hóa)
 ![Screenshot](https://scontent.xx.fbcdn.net/v/t1.15752-9/p403x403/272355989_4641921535926989_3544025467313146030_n.png?_nc_cat=103&ccb=1-5&_nc_sid=aee45a&_nc_ohc=dgLprxqcMc4AX-TxdxD&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AVKDo9YC8UwW-SjxijZZQmqvzuI1LFRes2Ilw2RAR_ca3g&oe=62166736)
-Cần implements Serializable(  trong thư viện java.io )
+1.Cần implements Serializable(  trong thư viện java.io )
